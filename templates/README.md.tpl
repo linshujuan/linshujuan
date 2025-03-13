@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: QQEmail [@bessie-lin](2095437181@qq.com)
+- 📫 How to reach me: QQEmail [@Bessie-lin](2095437181@qq.com)
 
 - [我的博客](https://blog.csdn.net/qq_33256701)
 
