@@ -4,6 +4,11 @@ on:
   push:
   schedule:
     - cron: "0 */1 * * *"
+    
+- name: Debug token
+  run: |
+    echo "Token: $PERSONAL_GITHUB_TOKEN"
+    echo "Repository: $GITHUB_REPOSITORY"
 
 jobs:
   markscribe:
