@@ -1,0 +1,111 @@
+<!-- 本文件中 RECENT_STARS 区块由 GitHub Actions 自动更新，请勿手动编辑该区块 -->
+
+<div align="center">
+
+<a href="https://github.com/linshujuan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=70&lines=Hi+there%2C+I'm+linshujuan+%F0%9F%91%8B;%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%7C+Frontend+Developer;React+%E2%80%A2+Vue+%E2%80%A2+TypeScript;Always+learning%2C+always+building+%F0%9F%9A%80" alt="typing banner" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=linshujuan&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/linshujuan?label=Followers&style=flat&color=58A6FF" alt="followers" />
+<a href="https://blog.csdn.net/qq_33256701"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-FC5531?style=flat&logo=csharp&logoColor=white" alt="csdn" /></a>
+
+</div>
+
+---
+
+### 🌊 关于我 · About Me
+
+```yaml
+name:      linshujuan
+role:      前端工程师 / Frontend Developer
+location:  🇨🇳 厦门 · Xiamen, China
+focus:     React / Vue 全家桶，移动端 (React Native · uni-app)
+also:      Python 脚本、效率工具、瞎折腾各种小项目
+status:    📚 备考国考行政执法类，刷题 & 写代码两不误
+motto:     "把重复的事交给代码，把时间留给热爱的事。"
+```
+
+- 🔭 正在打磨 React / Vue 项目，顺手研究各种提效小工具
+- 🌱 在学：TypeScript 进阶、工程化、还有……行测申论 😅
+- 💬 聊技术、聊摸鱼、聊副业都欢迎
+- 📫 找我：QQ / Email **2095437181@qq.com**
+- ⚡ 冷知识：我的 GitHub 主页会**自动**展示我最近 star 的项目 👇
+
+---
+
+### 🛠️ 技术栈 · Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![uni-app](https://img.shields.io/badge/uni--app-2B9939?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub 数据 · Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=linshujuan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=58A6FF&title_color=58A6FF" alt="github stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linshujuan&layout=compact&hide_border=true&theme=tokyonight&title_color=58A6FF&langs_count=8" alt="top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=linshujuan&hide_border=true&theme=tokyonight&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=linshujuan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+
+</div>
+
+---
+
+### ⭐ 最近 Star · Recently Starred
+
+> 🤖 下面这块由 GitHub Actions 每天自动抓取我最新点亮的小星星，纯实时更新。
+
+<!-- RECENT_STARS:START -->
+| 项目 | 语言 | 简介 | Star 于 |
+| :-- | :-- | :-- | :-- |
+| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | 今天 |
+| **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | 今天 |
+| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | 昨天 |
+| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | 🟨 JavaScript | The design language that makes your AI harness better at design. | 2 天前 |
+| **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | 🐚 Shell | Production-grade engineering skills for AI coding agents. | 3 天前 |
+| **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** | 🟨 JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating … | 3 天前 |
+| **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | 🐍 Python | Give your AI agent eyes to see the entire internet. Read & search Twi… | 3 天前 |
+| **[mattpocock/skills](https://github.com/mattpocock/skills)** | 🐚 Shell | Skills for Real Engineers. Straight from my .claude directory. | 3 天前 |
+<!-- RECENT_STARS:END -->
+
+---
+
+<div align="center">
+
+### 💫 今日一言
+
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&hideBorder=true&quoteCategory=programming" alt="quote" />
+
+<br/><br/>
+
+<i>感谢路过，记得 star 一下顺手关注哦 ⭐</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" width="100%" alt="footer wave" />
+
+</div>
