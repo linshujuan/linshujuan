@@ -1,39 +1,41 @@
-- name: Debug token
-  run: |
-    echo "Token: $PERSONAL_GITHUB_TOKEN"
-    echo "Repository: $GITHUB_REPOSITORY"
-
-name: Update README
+name: Update README (recent stars)
 
 on:
   push:
+    branches: [main]
   schedule:
-    - cron: "0 */1 * * *"
+    # 每天 UTC 22:30（北京时间次日 06:30）刷新一次
+    - cron: "30 22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
 
 jobs:
-  markscribe:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v4
 
-      - uses: muesli/readme-scribe@master
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate recent stars section
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STAR_USER: linshujuan
+          STAR_COUNT: "8"
+        run: python .github/scripts/update_stars.py
 
-      - uses: actions/upload-artifact@v4
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: README.md
-          path: README.md
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          commit_message: Update generated README
-          branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_message: "chore: refresh recent stars ⭐"
+          commit_user_name: "readme-bot 🤖"
+          commit_user_email: "actions@github.com"
+          file_pattern: README.md
