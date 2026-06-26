@@ -2,6 +2,12 @@
 
 <div align="center">
 
+🌐 <b>简体中文</b> · <a href="README.en.md">English</a>
+
+</div>
+
+<div align="center">
+
 <a href="https://github.com/linshujuan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=70&lines=Hi+there%2C+I'm+linshujuan+%F0%9F%91%8B;%E5%89%8D%E7%AB%AF%E8%BD%AC%E5%85%A8%E6%A0%88%E4%B8%AD+%7C+Frontend+to+Full-stack;React+%E2%80%A2+Vue+%E2%80%A2+TypeScript+%E2%80%A2+Java;%F0%9F%A4%96+Now+learning+AI+%2F+LLM;Always+learning%2C+always+building+%F0%9F%9A%80" alt="typing banner" />
 </a>

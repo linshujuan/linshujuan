@@ -38,4 +38,4 @@ jobs:
           commit_message: "chore: refresh recent stars ⭐"
           commit_user_name: "readme-bot 🤖"
           commit_user_email: "actions@github.com"
-          file_pattern: README.md
+          file_pattern: "README.md README.en.md"
