@@ -30,7 +30,6 @@ status:    📚 备考国考行政执法类，刷题 & 写代码两不误
 motto:     "把重复的事交给代码，把时间留给热爱的事。"
 ```
 
-- 🔭 正在打磨 React / Vue 项目，顺手研究各种提效小工具
 - 🌱 在学：AI / 大模型应用开发、后端工程化，还有……行测申论 😅
 - 💬 聊技术、聊摸鱼、聊副业都欢迎
 - 📫 找我：QQ / Email **2095437181@qq.com**
@@ -69,16 +68,12 @@ motto:     "把重复的事交给代码，把时间留给热爱的事。"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=linshujuan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=58A6FF&title_color=58A6FF" alt="github stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=linshujuan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=58A6FF&title_color=58A6FF" alt="github stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linshujuan&layout=compact&hide_border=true&theme=tokyonight&title_color=58A6FF&langs_count=8" alt="top languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=linshujuan&hide_border=true&theme=tokyonight&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=linshujuan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 
 </div>
 
