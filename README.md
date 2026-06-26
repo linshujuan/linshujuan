@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/linshujuan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=70&lines=Hi+there%2C+I'm+linshujuan+%F0%9F%91%8B;%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%7C+Frontend+Developer;React+%E2%80%A2+Vue+%E2%80%A2+TypeScript;Always+learning%2C+always+building+%F0%9F%9A%80" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=70&lines=Hi+there%2C+I'm+linshujuan+%F0%9F%91%8B;%E5%89%8D%E7%AB%AF%E8%BD%AC%E5%85%A8%E6%A0%88%E4%B8%AD+%7C+Frontend+to+Full-stack;React+%E2%80%A2+Vue+%E2%80%A2+TypeScript+%E2%80%A2+Java;%F0%9F%A4%96+Now+learning+AI+%2F+LLM;Always+learning%2C+always+building+%F0%9F%9A%80" alt="typing banner" />
 </a>
 
 <br/>
@@ -20,16 +20,18 @@
 
 ```yaml
 name:      linshujuan
-role:      前端工程师 / Frontend Developer
+role:      前端转全栈中 / Frontend → Full-stack
 location:  🇨🇳 厦门 · Xiamen, China
 focus:     React / Vue 全家桶，移动端 (React Native · uni-app)
-also:      Python 脚本、效率工具、瞎折腾各种小项目
+mobile:    Android / Java 也能写
+backend:   Node.js / Python，正在补全后端能力
+learning:  🤖 AI / 大模型应用开发
 status:    📚 备考国考行政执法类，刷题 & 写代码两不误
 motto:     "把重复的事交给代码，把时间留给热爱的事。"
 ```
 
 - 🔭 正在打磨 React / Vue 项目，顺手研究各种提效小工具
-- 🌱 在学：TypeScript 进阶、工程化、还有……行测申论 😅
+- 🌱 在学：AI / 大模型应用开发、后端工程化，还有……行测申论 😅
 - 💬 聊技术、聊摸鱼、聊副业都欢迎
 - 📫 找我：QQ / Email **2095437181@qq.com**
 - ⚡ 冷知识：我的 GitHub 主页会**自动**展示我最近 star 的项目 👇
@@ -47,12 +49,17 @@ motto:     "把重复的事交给代码，把时间留给热爱的事。"
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![uni-app](https://img.shields.io/badge/uni--app-2B9939?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AI / LLM](https://img.shields.io/badge/AI%20%2F%20LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![学习中](https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E4%B8%AD-FF6F61?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
@@ -67,7 +74,7 @@ motto:     "把重复的事交给代码，把时间留给热爱的事。"
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=linshujuan&hide_border=true&theme=tokyonight&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=linshujuan&hide_border=true&theme=tokyonight&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" />
 
 <br/>
 
@@ -100,7 +107,7 @@ motto:     "把重复的事交给代码，把时间留给热爱的事。"
 
 ### 💫 今日一言
 
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&hideBorder=true&quoteCategory=programming" alt="quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 <br/><br/>
 
