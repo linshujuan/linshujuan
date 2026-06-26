@@ -92,6 +92,7 @@ motto:     "Let code handle the repetitive, save time for what you love."
 <!-- RECENT_STARS:START -->
 | Repo | Language | Description | Starred |
 | :-- | :-- | :-- | :-- |
+| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | today |
 | **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | today |
 | **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | today |
 | **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | yesterday |
@@ -99,7 +100,6 @@ motto:     "Let code handle the repetitive, save time for what you love."
 | **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | 🐚 Shell | Production-grade engineering skills for AI coding agents. | 3 days ago |
 | **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** | 🟨 JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating … | 3 days ago |
 | **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | 🐍 Python | Give your AI agent eyes to see the entire internet. Read & search Twi… | 3 days ago |
-| **[mattpocock/skills](https://github.com/mattpocock/skills)** | 🐚 Shell | Skills for Real Engineers. Straight from my .claude directory. | 3 days ago |
 <!-- RECENT_STARS:END -->
 
 ---
