@@ -92,14 +92,14 @@ motto:     "把重复的事交给代码，把时间留给热爱的事。"
 <!-- RECENT_STARS:START -->
 | 项目 | 语言 | 简介 | Star 于 |
 | :-- | :-- | :-- | :-- |
-| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 今天 |
-| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | 今天 |
-| **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | 今天 |
-| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | 昨天 |
-| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | 🟨 JavaScript | The design language that makes your AI harness better at design. | 2 天前 |
-| **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | 🐚 Shell | Production-grade engineering skills for AI coding agents. | 3 天前 |
-| **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** | 🟨 JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating … | 3 天前 |
-| **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | 🐍 Python | Give your AI agent eyes to see the entire internet. Read & search Twi… | 3 天前 |
+| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 昨天 |
+| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | 昨天 |
+| **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | 昨天 |
+| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | 2 天前 |
+| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | 🟨 JavaScript | The design language that makes your AI harness better at design. | 3 天前 |
+| **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | 🐚 Shell | Production-grade engineering skills for AI coding agents. | 4 天前 |
+| **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** | 🟨 JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating … | 4 天前 |
+| **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | 🐍 Python | Give your AI agent eyes to see the entire internet. Read & search Twi… | 4 天前 |
 <!-- RECENT_STARS:END -->
 
 ---
