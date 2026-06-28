@@ -92,14 +92,14 @@ motto:     "Let code handle the repetitive, save time for what you love."
 <!-- RECENT_STARS:START -->
 | Repo | Language | Description | Starred |
 | :-- | :-- | :-- | :-- |
-| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | yesterday |
-| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | yesterday |
-| **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | yesterday |
-| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | 2 days ago |
-| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | 🟨 JavaScript | The design language that makes your AI harness better at design. | 3 days ago |
-| **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | 🐚 Shell | Production-grade engineering skills for AI coding agents. | 4 days ago |
-| **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** | 🟨 JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating … | 4 days ago |
-| **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | 🐍 Python | Give your AI agent eyes to see the entire internet. Read & search Twi… | 4 days ago |
+| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 2 days ago |
+| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | 2 days ago |
+| **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | 2 days ago |
+| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | 3 days ago |
+| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | 🟨 JavaScript | The design language that makes your AI harness better at design. | 4 days ago |
+| **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | 🐚 Shell | Production-grade engineering skills for AI coding agents. | 5 days ago |
+| **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** | 🟨 JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating … | 5 days ago |
+| **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** | 🐍 Python | Give your AI agent eyes to see the entire internet. Read & search Twi… | 5 days ago |
 <!-- RECENT_STARS:END -->
 
 ---
