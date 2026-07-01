@@ -92,14 +92,14 @@ motto:     "Let code handle the repetitive, save time for what you love."
 <!-- RECENT_STARS:START -->
 | Repo | Language | Description | Starred |
 | :-- | :-- | :-- | :-- |
-| **[fazgal0/free-sms-receivers](https://github.com/fazgal0/free-sms-receivers)** | ⬜ — | 16个免费接码平台：注册免烦恼，一键即可接码！ | yesterday |
-| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 4 days ago |
-| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | 4 days ago |
-| **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | 4 days ago |
-| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | 5 days ago |
-| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | 🟨 JavaScript | The design language that makes your AI harness better at design. | 6 days ago |
-| **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | 🐚 Shell | Production-grade engineering skills for AI coding agents. | 7 days ago |
-| **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** | 🟨 JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating … | 7 days ago |
+| **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** | ⬜ — | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | today |
+| **[fazgal0/free-sms-receivers](https://github.com/fazgal0/free-sms-receivers)** | ⬜ — | 16个免费接码平台：注册免烦恼，一键即可接码！ | 2 days ago |
+| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 5 days ago |
+| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | 5 days ago |
+| **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | 5 days ago |
+| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | 6 days ago |
+| **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | 🟨 JavaScript | The design language that makes your AI harness better at design. | 7 days ago |
+| **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | 🐚 Shell | Production-grade engineering skills for AI coding agents. | 8 days ago |
 <!-- RECENT_STARS:END -->
 
 ---
