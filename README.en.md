@@ -32,11 +32,10 @@ focus:     React / Vue ecosystem, mobile (React Native · uni-app)
 mobile:    Android / Java too
 backend:   Node.js / Python — leveling up my backend skills
 learning:  🤖 AI / LLM application development
-status:    📚 Prepping for China's civil-service exam, coding on the side
 motto:     "Let code handle the repetitive, save time for what you love."
 ```
 
-- 🌱 Currently learning: AI / LLM apps, backend engineering — and, well, exam stuff 😅
+- 🌱 Currently learning: AI / LLM apps, backend engineering
 - 💬 Happy to chat about tech, side projects, or slacking off
 - 📫 Reach me: QQ / Email **2095437181@qq.com**
 - ⚡ Fun fact: this profile **auto-updates** with the repos I recently starred 👇

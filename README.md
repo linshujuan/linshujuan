@@ -32,11 +32,10 @@ focus:     React / Vue 全家桶，移动端 (React Native · uni-app)
 mobile:    Android / Java 也能写
 backend:   Node.js / Python，正在补全后端能力
 learning:  🤖 AI / 大模型应用开发
-status:    📚 备考国考行政执法类，刷题 & 写代码两不误
 motto:     "把重复的事交给代码，把时间留给热爱的事。"
 ```
 
-- 🌱 在学：AI / 大模型应用开发、后端工程化，还有……行测申论 😅
+- 🌱 在学：AI / 大模型应用开发、后端工程化
 - 💬 聊技术、聊摸鱼、聊副业都欢迎
 - 📫 找我：QQ / Email **2095437181@qq.com**
 - ⚡ 冷知识：我的 GitHub 主页会**自动**展示我最近 star 的项目 👇
