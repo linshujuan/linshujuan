@@ -91,14 +91,14 @@ motto:     "Let code handle the repetitive, save time for what you love."
 <!-- RECENT_STARS:START -->
 | Repo | Language | Description | Starred |
 | :-- | :-- | :-- | :-- |
-| **[Rimagination/bili-note](https://github.com/Rimagination/bili-note)** | 🐍 Python | Extract Bilibili videos into learning-oriented Markdown notes with fu… | 2 days ago |
-| **[JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)** | 🐍 Python | AI 视频笔记生成工具 让 AI 为你的视频做笔记 | 2 days ago |
-| **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** | ⬜ — | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | 5 days ago |
-| **[fazgal0/free-sms-receivers](https://github.com/fazgal0/free-sms-receivers)** | ⬜ — | 16个免费接码平台：注册免烦恼，一键即可接码！ | 7 days ago |
-| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 10 days ago |
-| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | 10 days ago |
-| **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | 10 days ago |
-| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | 11 days ago |
+| **[Rimagination/bili-note](https://github.com/Rimagination/bili-note)** | 🐍 Python | Extract Bilibili videos into learning-oriented Markdown notes with fu… | 3 days ago |
+| **[JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)** | 🐍 Python | AI 视频笔记生成工具 让 AI 为你的视频做笔记 | 3 days ago |
+| **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** | ⬜ — | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | 6 days ago |
+| **[fazgal0/free-sms-receivers](https://github.com/fazgal0/free-sms-receivers)** | ⬜ — | 16个免费接码平台：注册免烦恼，一键即可接码！ | 8 days ago |
+| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 11 days ago |
+| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | 11 days ago |
+| **[obra/superpowers](https://github.com/obra/superpowers)** | 🐚 Shell | An agentic skills framework & software development methodology that w… | 11 days ago |
+| **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** | 🟨 JavaScript | Use Codex from Claude Code to review code or delegate tasks. | 12 days ago |
 <!-- RECENT_STARS:END -->
 
 ---
