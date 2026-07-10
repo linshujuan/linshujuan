@@ -91,14 +91,14 @@ motto:     "把重复的事交给代码，把时间留给热爱的事。"
 <!-- RECENT_STARS:START -->
 | 项目 | 语言 | 简介 | Star 于 |
 | :-- | :-- | :-- | :-- |
-| **[usestrix/strix](https://github.com/usestrix/strix)** | 🐍 Python | Open-source AI penetration testing tool to find and fix your app’s vu… | 今天 |
-| **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** | ⬛ C | High-performance code intelligence MCP server. Indexes codebases into… | 今天 |
-| **[Rimagination/bili-note](https://github.com/Rimagination/bili-note)** | 🐍 Python | Extract Bilibili videos into learning-oriented Markdown notes with fu… | 5 天前 |
-| **[JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)** | 🐍 Python | AI 视频笔记生成工具 让 AI 为你的视频做笔记 | 5 天前 |
-| **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** | ⬜ — | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | 8 天前 |
-| **[fazgal0/free-sms-receivers](https://github.com/fazgal0/free-sms-receivers)** | ⬜ — | 16个免费接码平台：注册免烦恼，一键即可接码！ | 10 天前 |
-| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 13 天前 |
-| **[anthropics/skills](https://github.com/anthropics/skills)** | 🐍 Python | Public repository for Agent Skills | 13 天前 |
+| **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** | 🐍 Python | Security scanner for AI agent skills. Detect vulnerabilities, malicio… | 今天 |
+| **[usestrix/strix](https://github.com/usestrix/strix)** | 🐍 Python | Open-source AI penetration testing tool to find and fix your app’s vu… | 昨天 |
+| **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** | ⬛ C | High-performance code intelligence MCP server. Indexes codebases into… | 昨天 |
+| **[Rimagination/bili-note](https://github.com/Rimagination/bili-note)** | 🐍 Python | Extract Bilibili videos into learning-oriented Markdown notes with fu… | 6 天前 |
+| **[JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)** | 🐍 Python | AI 视频笔记生成工具 让 AI 为你的视频做笔记 | 6 天前 |
+| **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** | 🐍 Python | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | 9 天前 |
+| **[fazgal0/free-sms-receivers](https://github.com/fazgal0/free-sms-receivers)** | ⬜ — | 16个免费接码平台：注册免烦恼，一键即可接码！ | 11 天前 |
+| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 14 天前 |
 <!-- RECENT_STARS:END -->
 
 ---
