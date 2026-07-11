@@ -91,14 +91,14 @@ motto:     "Let code handle the repetitive, save time for what you love."
 <!-- RECENT_STARS:START -->
 | Repo | Language | Description | Starred |
 | :-- | :-- | :-- | :-- |
-| **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** | 🐍 Python | Security scanner for AI agent skills. Detect vulnerabilities, malicio… | today |
-| **[usestrix/strix](https://github.com/usestrix/strix)** | 🐍 Python | Open-source AI penetration testing tool to find and fix your app’s vu… | yesterday |
-| **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** | ⬛ C | High-performance code intelligence MCP server. Indexes codebases into… | yesterday |
-| **[Rimagination/bili-note](https://github.com/Rimagination/bili-note)** | 🐍 Python | Extract Bilibili videos into learning-oriented Markdown notes with fu… | 6 days ago |
-| **[JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)** | 🐍 Python | AI 视频笔记生成工具 让 AI 为你的视频做笔记 | 6 days ago |
-| **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** | 🐍 Python | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | 9 days ago |
-| **[fazgal0/free-sms-receivers](https://github.com/fazgal0/free-sms-receivers)** | ⬜ — | 16个免费接码平台：注册免烦恼，一键即可接码！ | 11 days ago |
-| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 14 days ago |
+| **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** | 🐍 Python | Security scanner for AI agent skills. Detect vulnerabilities, malicio… | yesterday |
+| **[usestrix/strix](https://github.com/usestrix/strix)** | 🐍 Python | Open-source AI penetration testing tool to find and fix your app’s vu… | 2 days ago |
+| **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** | ⬛ C | High-performance code intelligence MCP server. Indexes codebases into… | 2 days ago |
+| **[Rimagination/bili-note](https://github.com/Rimagination/bili-note)** | 🐍 Python | Extract Bilibili videos into learning-oriented Markdown notes with fu… | 7 days ago |
+| **[JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)** | 🐍 Python | AI 视频笔记生成工具 让 AI 为你的视频做笔记 | 7 days ago |
+| **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** | 🐍 Python | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | 10 days ago |
+| **[fazgal0/free-sms-receivers](https://github.com/fazgal0/free-sms-receivers)** | ⬜ — | 16个免费接码平台：注册免烦恼，一键即可接码！ | 12 days ago |
+| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 15 days ago |
 <!-- RECENT_STARS:END -->
 
 ---
