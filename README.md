@@ -91,14 +91,14 @@ motto:     "把重复的事交给代码，把时间留给热爱的事。"
 <!-- RECENT_STARS:START -->
 | 项目 | 语言 | 简介 | Star 于 |
 | :-- | :-- | :-- | :-- |
-| **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** | 🐍 Python | Security scanner for AI agent skills. Detect vulnerabilities, malicio… | 3 天前 |
-| **[usestrix/strix](https://github.com/usestrix/strix)** | 🐍 Python | Open-source AI penetration testing tool to find and fix your app’s vu… | 4 天前 |
-| **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** | ⬛ C | High-performance code intelligence MCP server. Indexes codebases into… | 4 天前 |
-| **[Rimagination/bili-note](https://github.com/Rimagination/bili-note)** | 🐍 Python | Extract Bilibili videos into learning-oriented Markdown notes with fu… | 9 天前 |
-| **[JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote)** | 🐍 Python | AI 视频笔记生成工具 让 AI 为你的视频做笔记 | 9 天前 |
-| **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** | 🐍 Python | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | 12 天前 |
-| **[fazgal0/free-sms-receivers](https://github.com/fazgal0/free-sms-receivers)** | ⬜ — | 16个免费接码平台：注册免烦恼，一键即可接码！ | 14 天前 |
-| **[241x/cdpnetool](https://github.com/241x/cdpnetool)** | 🩵 Go | Chrome DevTools Protocol Network Tools | 17 天前 |
+| **[githubvpn007/v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)** | ⬜ — | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 、外网游戏、国… | 今天 |
+| **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** | 🟦 TypeScript | 一个基于 Electron 的音乐软件 | 今天 |
+| **[maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)** | 🟦 TypeScript | 插件化、定制化、无广告的免费音乐播放器 | 今天 |
+| **[coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)** | 🟨 JavaScript | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通… | 今天 |
+| **[vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)** | ⬜ — | 🎉 A curated list of awesome things related to Vue.js | 今天 |
+| **[vuejs/rfcs](https://github.com/vuejs/rfcs)** | ⬜ — | RFCs for substantial changes / feature additions to Vue core | 今天 |
+| **[microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)** | 🟦 TypeScript | Sample code illustrating the VS Code extension API. | 今天 |
+| **[codemirror/dev](https://github.com/codemirror/dev)** | 🟨 JavaScript | Development repository for the CodeMirror editor project | 今天 |
 <!-- RECENT_STARS:END -->
 
 ---
