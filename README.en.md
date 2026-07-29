@@ -91,14 +91,14 @@ motto:     "Let code handle the repetitive, save time for what you love."
 <!-- RECENT_STARS:START -->
 | Repo | Language | Description | Starred |
 | :-- | :-- | :-- | :-- |
-| **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** | 🐍 Python | SkillOpt is a text-space optimizer that trains reusable natural-langu… | today |
-| **[DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)** | 🐍 Python | Generate audiobooks from e-books, voice cloning & 1158+ languages! | 12 days ago |
-| **[githubvpn007/v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)** | ⬜ — | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 、外网游戏、国… | 14 days ago |
-| **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** | 🟦 TypeScript | 一个基于 Electron 的音乐软件 | 14 days ago |
-| **[maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)** | 🟦 TypeScript | 插件化、定制化、无广告的免费音乐播放器 | 14 days ago |
-| **[coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)** | 🟨 JavaScript | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通… | 14 days ago |
-| **[vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)** | ⬜ — | 🎉 A curated list of awesome things related to Vue.js | 14 days ago |
-| **[vuejs/rfcs](https://github.com/vuejs/rfcs)** | ⬜ — | RFCs for substantial changes / feature additions to Vue core | 14 days ago |
+| **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** | 🐍 Python | Learn it. Build it. Ship it for others. | today |
+| **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** | 🐍 Python | Local-first code intelligence graph for MCP and CLI. Builds a persist… | today |
+| **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** | 🐍 Python | SkillOpt is a text-space optimizer that trains reusable natural-langu… | yesterday |
+| **[DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)** | 🐍 Python | Generate audiobooks from e-books, voice cloning & 1158+ languages! | 13 days ago |
+| **[githubvpn007/v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)** | ⬜ — | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 、外网游戏、国… | 15 days ago |
+| **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** | 🟦 TypeScript | 一个基于 Electron 的音乐软件 | 15 days ago |
+| **[maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)** | 🟦 TypeScript | 插件化、定制化、无广告的免费音乐播放器 | 15 days ago |
+| **[coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)** | 🟨 JavaScript | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通… | 15 days ago |
 <!-- RECENT_STARS:END -->
 
 ---
