@@ -91,14 +91,14 @@ motto:     "把重复的事交给代码，把时间留给热爱的事。"
 <!-- RECENT_STARS:START -->
 | 项目 | 语言 | 简介 | Star 于 |
 | :-- | :-- | :-- | :-- |
-| **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** | 🐍 Python | Learn it. Build it. Ship it for others. | 4 天前 |
-| **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** | 🐍 Python | Local-first code intelligence graph for MCP and CLI. Builds a persist… | 4 天前 |
-| **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** | 🐍 Python | SkillOpt is a text-space optimizer that trains reusable natural-langu… | 5 天前 |
-| **[DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)** | 🐍 Python | Generate audiobooks from e-books, voice cloning & 1158+ languages! | 17 天前 |
-| **[githubvpn007/v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn)** | ⬜ — | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 、外网游戏、国… | 19 天前 |
-| **[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)** | 🟦 TypeScript | 一个基于 Electron 的音乐软件 | 19 天前 |
-| **[maotoumao/MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop)** | 🟦 TypeScript | 插件化、定制化、无广告的免费音乐播放器 | 19 天前 |
-| **[coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)** | 🟨 JavaScript | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通… | 19 天前 |
+| **[openai/codex-security](https://github.com/openai/codex-security)** | 🟦 TypeScript | OpenAI's Codex Security CLI and TypeScript SDK for finding, validatin… | 今天 |
+| **[cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)** | 🐍 Python | 小红书爬虫数据采集，小红书全域运营解决方案 | 今天 |
+| **[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)** | 🐍 Python | Open-source NotebookLM alternative. Research the open web with live d… | 今天 |
+| **[MartinDelophy/ai-video-editor](https://github.com/MartinDelophy/ai-video-editor)** | 🟨 JavaScript | Local-first browser AI video editor with WebGPU AI music, AI repair, … | 今天 |
+| **[different-ai/openwork](https://github.com/different-ai/openwork)** | 🟦 TypeScript | The open-source alternative to Claude Cowork (powered by opencode) | 今天 |
+| **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** | 🦀 Rust | Your Personal AI super intelligence. A brain that builds a local-firs… | 今天 |
+| **[laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)** | 🟨 JavaScript | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳… | 今天 |
+| **[denizsafak/abogen](https://github.com/denizsafak/abogen)** | 🐍 Python | Generate audiobooks from EPUBs, PDFs and text with synchronized capti… | 今天 |
 <!-- RECENT_STARS:END -->
 
 ---
