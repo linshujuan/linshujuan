@@ -91,14 +91,14 @@ motto:     "Let code handle the repetitive, save time for what you love."
 <!-- RECENT_STARS:START -->
 | Repo | Language | Description | Starred |
 | :-- | :-- | :-- | :-- |
-| **[openai/codex-security](https://github.com/openai/codex-security)** | 🟦 TypeScript | OpenAI's Codex Security CLI and TypeScript SDK for finding, validatin… | today |
-| **[cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)** | 🐍 Python | 小红书爬虫数据采集，小红书全域运营解决方案 | today |
-| **[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)** | 🐍 Python | Open-source NotebookLM alternative. Research the open web with live d… | today |
-| **[MartinDelophy/ai-video-editor](https://github.com/MartinDelophy/ai-video-editor)** | 🟨 JavaScript | Local-first browser AI video editor with WebGPU AI music, AI repair, … | today |
-| **[different-ai/openwork](https://github.com/different-ai/openwork)** | 🟦 TypeScript | The open-source alternative to Claude Cowork (powered by opencode) | today |
-| **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** | 🦀 Rust | Your Personal AI super intelligence. A brain that builds a local-firs… | today |
-| **[laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)** | 🟨 JavaScript | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳… | today |
-| **[denizsafak/abogen](https://github.com/denizsafak/abogen)** | 🐍 Python | Generate audiobooks from EPUBs, PDFs and text with synchronized capti… | today |
+| **[openai/codex-security](https://github.com/openai/codex-security)** | 🟦 TypeScript | OpenAI's Codex Security CLI and TypeScript SDK for finding, validatin… | yesterday |
+| **[cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)** | 🐍 Python | 小红书爬虫数据采集，小红书全域运营解决方案 | yesterday |
+| **[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)** | 🐍 Python | Open-source NotebookLM alternative. Research the open web with live d… | yesterday |
+| **[MartinDelophy/ai-video-editor](https://github.com/MartinDelophy/ai-video-editor)** | 🟨 JavaScript | Local-first browser AI video editor with WebGPU AI music, AI repair, … | yesterday |
+| **[different-ai/openwork](https://github.com/different-ai/openwork)** | 🟦 TypeScript | The open-source alternative to Claude Cowork (powered by opencode) | yesterday |
+| **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** | 🦀 Rust | Your Personal AI super intelligence. A brain that builds a local-firs… | yesterday |
+| **[laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)** | 🟨 JavaScript | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳… | yesterday |
+| **[denizsafak/abogen](https://github.com/denizsafak/abogen)** | 🐍 Python | Generate audiobooks from EPUBs, PDFs and text with synchronized capti… | yesterday |
 <!-- RECENT_STARS:END -->
 
 ---
