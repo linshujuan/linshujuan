@@ -91,14 +91,14 @@ motto:     "Let code handle the repetitive, save time for what you love."
 <!-- RECENT_STARS:START -->
 | Repo | Language | Description | Starred |
 | :-- | :-- | :-- | :-- |
-| **[stablyai/orca](https://github.com/stablyai/orca)** | 🟦 TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any … | today |
-| **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** | 🐍 Python | Give Claude the ability to watch any video. /watch downloads, extract… | today |
-| **[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)** | 🐍 Python | 数字生命卡兹克开源的 AI Skills 合集 · Agent Skills: leader（帮你定义目标）, neat-freak 洁癖… | today |
-| **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** | 🐍 Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 | today |
-| **[openai/codex-security](https://github.com/openai/codex-security)** | 🟦 TypeScript | OpenAI's Codex Security CLI and TypeScript SDK for finding, validatin… | 2 days ago |
-| **[cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)** | 🐍 Python | 小红书爬虫数据采集，小红书全域运营解决方案 | 2 days ago |
-| **[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)** | 🐍 Python | Open-source NotebookLM alternative. Research the open web with live d… | 2 days ago |
-| **[MartinDelophy/ai-video-editor](https://github.com/MartinDelophy/ai-video-editor)** | 🟨 JavaScript | Local-first browser AI video editor with WebGPU AI music, AI repair, … | 2 days ago |
+| **[block/buzz](https://github.com/block/buzz)** | 🦀 Rust | A hive mind communication platform | today |
+| **[stablyai/orca](https://github.com/stablyai/orca)** | 🟦 TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any … | yesterday |
+| **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** | 🐍 Python | Give Claude the ability to watch any video. /watch downloads, extract… | yesterday |
+| **[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)** | 🐍 Python | 数字生命卡兹克开源的 AI Skills 合集 · Agent Skills: leader（帮你定义目标）, neat-freak 洁癖… | yesterday |
+| **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)** | 🐍 Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 | yesterday |
+| **[openai/codex-security](https://github.com/openai/codex-security)** | 🟦 TypeScript | OpenAI's Codex Security CLI and TypeScript SDK for finding, validatin… | 3 days ago |
+| **[cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)** | 🐍 Python | 小红书爬虫数据采集，小红书全域运营解决方案 | 3 days ago |
+| **[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)** | 🐍 Python | Open-source NotebookLM alternative. Research the open web with live d… | 3 days ago |
 <!-- RECENT_STARS:END -->
 
 ---
